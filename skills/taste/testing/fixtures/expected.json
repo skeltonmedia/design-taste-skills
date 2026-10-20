@@ -1,0 +1,10 @@
+{
+  "bad_dna_error_codes": ["missing-section", "undated-decision", "unsourced-rejection", "calibration-count"],
+  "bad_dna_missing_section": 6,
+  "tally_against_example_dna": {
+    "ready": ["nav-disappears"],
+    "counts": {"tabular-figures": 3, "nav-disappears": 3, "big-type": 2, "hero-over-work": 1},
+    "in_dna": ["tabular-figures"]
+  },
+  "tally_without_dna_ready": ["nav-disappears", "tabular-figures"]
+}
