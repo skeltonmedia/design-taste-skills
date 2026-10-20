@@ -101,7 +101,8 @@ def lint(text: str):
         add("error", "calibration-count", sections[5][0][0] if sections[5] else 0, f"calibration test has {len(questions)} questions, needs 5")
 
     for i, line in enumerate(lines, 1):
-        if "[inferred]" in line:
+        # A backticked `[inferred]` is prose explaining the mark, not a marked line.
+        if "[inferred]" in line.replace("`[inferred]`", ""):
             add("info", "inferred", i, line.strip()[:70])
 
     return findings

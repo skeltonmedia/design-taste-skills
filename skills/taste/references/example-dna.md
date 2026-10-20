@@ -42,7 +42,7 @@ last_updated: 2026-06-14
 - **A second accent.** Any color competing with green for attention. (source: 2026-04-02)
 - **Performed enthusiasm.** Confetti, exclamation marks in UI copy, badges for routine actions. (source: 2026-05-22)
 - **Generic SaaS composition.** Centered hero, three feature cards, a gradient blob. The landing page comps that had it were declined. (source: 2026-05-30, rejections.md)
-- **Monospace as a mood.** Using a coding font to signal "technical". `[inferred]` from 2026-03-11; confirm.
+- **Monospace as a mood.** Using a coding font to signal "technical". [inferred] from 2026-03-11; confirm.
 
 ## 4. Appetite
 
@@ -50,7 +50,7 @@ Where effort goes without being asked:
 
 - Spacing rhythm and type size across the week, day, and month views. The first lever and usually the last.
 - The sample data. Real-looking client names, honest block lengths, a week that reads true.
-- Keyboard flow. Every scheduling action reachable without the mouse. `[inferred]` from the 2026-04 changelogs; confirm.
+- Keyboard flow. Every scheduling action reachable without the mouse. [inferred] from the 2026-04 changelogs; confirm.
 
 Where it will not go:
 

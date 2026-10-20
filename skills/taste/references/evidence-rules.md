@@ -24,6 +24,8 @@ A rejection does not wait for three. One clear no with a stated reason is a sect
 - `[aspiration]`: the subject wants it and cannot yet name its cost. Stays in the library, never in sections 0 to 5.
 - `~~struck~~` with a date: a line the subject removed. Struck lines stay visible. The file records movement; it does not hide it.
 
+Write a mark plain on the line it marks. Backticks around a mark mean you are talking about it, and the lint ignores those.
+
 ## Who moves what
 
 | Change | Agent may | Subject must |
